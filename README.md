@@ -32,5 +32,7 @@ This stablecoin seeks to become a cornerstone for DeFi applications on the Aptos
 - **Reserve Tracking**: Real-time tracking of total stablecoins in circulation and reserve levels
 - **Timestamp-Based Updates**: Records of when peg ratios were last adjusted
 - **Safety Mechanisms**: Built-in checks to maintain reserve adequacy
-  Contact Address: 0xc42d02971cc23864baf479001ae69ce0172b04c2e40e4275b1c2f0e562e842d4
+  ## Contact Address: 0xc42d02971cc23864baf479001ae69ce0172b04c2e40e4275b1c2f0e562e842d4
 ## transaction_hash: "0x959a4ab44d94f3c4638c55cc0eab4869ac86bf6aa40918ef0ed2115580e85380"
+![image](https://github.com/user-attachments/assets/c86ba0bf-ce70-4f3a-8a14-d2e909d52ed9)
+
