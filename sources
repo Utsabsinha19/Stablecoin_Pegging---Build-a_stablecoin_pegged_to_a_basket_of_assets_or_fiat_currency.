@@ -13,4 +13,5 @@ rev = "mainnet"
 subdir = "aptos-framework"
 
 [dev-dependencies]
+.
 
